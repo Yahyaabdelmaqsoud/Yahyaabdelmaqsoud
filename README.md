@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yahyaabdelmaqsoud
 - 👀 I’m interested in ...python , backend , fastapi , SQL , Tableau 
-- 🌱 I’m currently learning ... backend
+- 🌱 I’m currently learning ... backend , API , FastApi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me .. yahyaabdelmaqsoud@gmail.com.
 
 <!---
 Yahyaabdelmaqsoud/Yahyaabdelmaqsoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
