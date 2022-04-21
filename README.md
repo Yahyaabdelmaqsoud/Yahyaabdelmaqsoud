@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yahyaabdelmaqsoud
 - 👀 I’m interested in ...python , backend , fastapi , SQL , Tableau 
 - 🌱 I’m currently learning ... backend , API , FastApi
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. yahyaabdelmaqsoud@gmail.com.
 
 <!---
